@@ -1,0 +1,8 @@
+﻿  T10.cpp
+C:\Users\lilsh\Desktop\BOP\BOP\T10.cpp(18,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\lilsh\Desktop\BOP\BOP\T10.cpp(19,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\lilsh\Desktop\BOP\BOP\T10.cpp(20,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\lilsh\Desktop\BOP\BOP\T10.cpp(22,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\lilsh\Desktop\BOP\BOP\T10.cpp(23,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\lilsh\Desktop\BOP\BOP\T10.cpp(24,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  BOP.vcxproj -> C:\Users\lilsh\Desktop\BOP\x64\Debug\BOP.exe
